@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inglate.github.io/sitemap.html.gz
+Sitemap: https://inglate.github.io/app/sitemap.html.gz
+Sitemap: https://inglate.github.io/assets/sitemap.html.gz
+Sitemap: https://inglate.github.io/css/sitemap.html.gz
+Sitemap: https://inglate.github.io/includes/sitemap.html.gz
+Sitemap: https://inglate.github.io/item/sitemap.html.gz
+Sitemap: https://inglate.github.io/src/sitemap.html.gz
